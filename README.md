@@ -10,3 +10,7 @@ Please give me a little credit if you do skid off it I swear im fine with just a
 Tools: 
 
 https://github.com/L3afMe/serenity-selfbot-support
+
+
+
+WARNING: THIS IS A PROOF OF CONCEPT USING THIS MAY GET YOU BANNED AS SELFBOTS ARE AGAINST TOS
