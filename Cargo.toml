@@ -1,0 +1,22 @@
+[package]
+name = "R2SelfBot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serenity = { git = "https://github.com/L3afMe/serenity-selfbot-support", default-features = false, features = [
+    "builder",
+    "client",
+    "framework",
+    "gateway",
+    "http",
+    "model",
+    "standard_framework",
+    "utils",
+    "rustls_backend",
+]}
+tokio = { version = "0.2", features = ["fs", "io-std", "io-util", "macros", "rt-core", "rt-threaded", "sync", "time"] }
+dotenv = "0.15"
+rand = "0.8"
+colored = "2.1.0"
+rpassword = "5.0"
