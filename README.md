@@ -7,4 +7,6 @@ I made this as a side project as a linux selfbot so have fun I guess!
 
 Please give me a little credit if you do skid off it I swear im fine with just a comment since it open src.
 
+Tools: 
 
+https://github.com/L3afMe/serenity-selfbot-support
